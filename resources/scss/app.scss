@@ -6,3 +6,27 @@ $primary-color: red;
 body {
     background-color: $body-background;
 }
+
+.full-width {
+    width: 100%;   
+}
+
+.background-color-one {
+    background-color: $color-one;
+}
+
+.background-color-two {
+    background-color: $color-two;
+}
+
+.background-color-three {
+    background-color: $color-three;
+}
+
+.background-color-four {
+    background-color: $color-four;
+}
+
+.navbar-item, .navbar-link {
+    color: $color-one;
+}

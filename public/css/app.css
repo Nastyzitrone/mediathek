@@ -10335,3 +10335,27 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 body {
   background-color: #a77171;
 }
+
+.full-width {
+  width: 100%;
+}
+
+.background-color-one {
+  background-color: #93B7BE;
+}
+
+.background-color-two {
+  background-color: #F1FFFA;
+}
+
+.background-color-three {
+  background-color: #D5C7BC;
+}
+
+.background-color-four {
+  background-color: #785964;
+}
+
+.navbar-item, .navbar-link {
+  color: #93B7BE;
+}
